@@ -8,7 +8,7 @@
  
   👨‍💻Engenheiro Eletrônico - Escola de Engenharia Mauá - IMT
   
-  👨‍🎓 Estudando Analise e Desenvolvimento de Sistemas - Univerisdade Anhanguera 
+  👨‍🎓 Tecnólogo em Analise e Desenvolvimento de Sistemas - Univerisdade Anhanguera 
   
   👨‍🎓 Estudando Salesforce - Full Stack 
   
