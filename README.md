@@ -6,17 +6,17 @@
   
   🏃‍♂️ Apaixonado por corridas de rua 
  
-  👨‍💻Engenheiro Eletrônico - Escola de Engenharia Mauá - IMT
+  👨‍💻 Engenheiro Eletrônico - Escola de Engenharia Mauá - IMT
   
   👨‍🎓 Tecnólogo em Analise e Desenvolvimento de Sistemas - Univerisdade Anhanguera 
   
-  👨‍🎓 Estudando Salesforce - Full Stack 
+  👨‍🎓 Salesforce - Full Stack 
   
-  🥇MBA em TI e Internet - Universidade Nove de Julho
+  🥇 MBA em TI e Internet - Universidade Nove de Julho
   
-  🥇MBA em Administração Executiva para Engenheiros - Escola de Engenharia Mauá 
+  🥇 MBA em Administração Executiva para Engenheiros - Escola de Engenharia Mauá 
   
-  🥇MBA em Gestão de Negócios - Universidade Nove de Julho
+  🥇 MBA em Gestão de Negócios - Universidade Nove de Julho
   
    ![AlexTancredo GitHub stats](https://github-readme-stats.vercel.app/api?username=Alextancredo&show_icons=true&theme=light)
    <div>
