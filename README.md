@@ -2,7 +2,7 @@
 
   💒 Casado - 47 anos
   
-  👨‍👩‍👦 Pai
+  👨‍👩‍👦 Pai de um menino 
   
   🏃‍♂️ Apaixonado por corridas de rua 
  
